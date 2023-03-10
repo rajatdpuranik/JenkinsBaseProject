@@ -9,6 +9,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Build your project here, using the parameter values as needed
+                sh 'echo "Step 1"'
             }
         }
     }
