@@ -1337,7 +1337,7 @@
             "data": {
               "type": "tm.Store",
               "name": "S3 Bucket",
-              "description": "",
+              "description": "Store Files \nSeparate Bucket per client environments isolated by folder.",
               "outOfScope": false,
               "reasonOutOfScope": "",
               "hasOpenThreats": false,
@@ -1759,6 +1759,6 @@
     ],
     "diagramTop": 1,
     "reviewer": "SpyVsSpy",
-    "threatTop": 0
+    "threatTop": 1
   }
 }
