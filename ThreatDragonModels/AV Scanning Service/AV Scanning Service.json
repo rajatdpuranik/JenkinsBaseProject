@@ -44,12 +44,12 @@
           },
           {
             "position": {
-              "x": 1401.0000000000002,
-              "y": 489.99999999999955
+              "x": 1401,
+              "y": 490
             },
             "size": {
-              "width": 690,
-              "height": 550
+              "width": 720,
+              "height": 560
             },
             "shape": "trust-boundary-box",
             "attrs": {
