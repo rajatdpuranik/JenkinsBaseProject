@@ -16,7 +16,1407 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.2.0",
-        "cells": []
+        "cells": [
+          {
+            "position": {
+              "x": 229.9999999999975,
+              "y": 155.00000000000182
+            },
+            "size": {
+              "width": 670,
+              "height": 450
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Runtime Account/Project"
+              }
+            },
+            "id": "3d2ba92b-958b-4127-bac4-f64e0127566c",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Runtime Account/Project",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1010.9999999999982,
+              "y": 155.00000000000057
+            },
+            "size": {
+              "width": 690,
+              "height": 450
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Regional Account/ Project"
+              }
+            },
+            "id": "40584dde-a2c3-4c72-8969-fdcb60e90a12",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Regional Account/ Project",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 282.9999999999999,
+              "y": 250.0000000000001
+            },
+            "size": {
+              "width": 280,
+              "height": 290
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Client A Cluster"
+              }
+            },
+            "id": "be85f3bd-834b-4ad8-9f1d-bfcc7e6fb77e",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Client A Cluster",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 252.99999999999926,
+              "y": 220.00000000000216
+            },
+            "size": {
+              "width": 330,
+              "height": 350
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Client A VPC"
+              }
+            },
+            "id": "5b036c68-c883-43f7-b690-06c9e3b09976",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Client A VPC",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1123,
+              "y": 190.00000000000114
+            },
+            "size": {
+              "width": 380,
+              "height": 380
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Regional VPC "
+              }
+            },
+            "id": "f257c97c-204b-45c6-8855-b6fd67b232a0",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Regional VPC ",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1150,
+              "y": 220.00000000000296
+            },
+            "size": {
+              "width": 330,
+              "height": 330
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Regional Cluster"
+              }
+            },
+            "id": "18350129-48d8-40b2-a753-174cc4f5140c",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Regional Cluster",
+              "description": "Runs Multi Client Malware Scanning Service",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1197,
+              "y": 270.0000000000009
+            },
+            "size": {
+              "width": 250,
+              "height": 260
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Malware Scanner Service"
+              }
+            },
+            "id": "f2685ec8-30a2-4575-9526-480d074c68f7",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Malware Scanner Service",
+              "description": "K8s service \n",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1220,
+              "y": 355.0000000000018
+            },
+            "size": {
+              "width": 160,
+              "height": 50
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Interface Container"
+              }
+            },
+            "id": "e0051a94-6c9e-40b3-9b1e-d803f96eb501",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Interface Container",
+              "description": "Container which publishes endpoints for Sync Use Cases and runs code to poll messages from queue ",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1220,
+              "y": 460.00000000000006
+            },
+            "size": {
+              "width": 160,
+              "height": 50
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Scanner Container"
+              }
+            },
+            "id": "e6d99e1f-49fe-49ec-9455-8fda23128dfd",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Scanner Container",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1236,
+              "y": 6
+            },
+            "size": {
+              "width": 128,
+              "height": 60
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "\nGOC\nOperations"
+              }
+            },
+            "id": "b2172cf7-2f6b-41c9-9455-20d9b95e8dfe",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "\nGOC\nOperations",
+              "description": "Bulk Request \nRetro Scan\n  Restore File",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 629.9999999999982,
+              "y": 690
+            },
+            "size": {
+              "width": 160,
+              "height": 50
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "SAX"
+              }
+            },
+            "id": "08833773-f134-4816-affb-c20712e20f03",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "SAX",
+              "description": "Generate SAX token in order authenticate with Malware Scanner Service Running in Regional Cluster",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 20,
+              "y": 190
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Client A"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "81da00bb-39fb-45bd-ba51-2d86e1126ef8",
+            "zIndex": 0,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Client A",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 20,
+              "y": 290
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Client B"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "97befa60-8317-4c0b-bdae-dd6489e33bd2",
+            "zIndex": 1,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Client B",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 20,
+              "y": 380.00000000000273
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Client C"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "7f37ed0c-d2f0-4751-b1e0-ebf669970785",
+            "zIndex": 2,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Client C",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
+            }
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "bd4d3b92-3785-4d16-ba5d-feae51a24329",
+            "source": {
+              "x": 170,
+              "y": 170
+            },
+            "target": {
+              "x": 140,
+              "y": 270
+            },
+            "vertices": [
+              {
+                "x": 180,
+                "y": 190
+              },
+              {
+                "x": 200,
+                "y": 220
+              },
+              {
+                "x": 180,
+                "y": 250
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "8a82e2e4-c71f-4349-a6bb-badf52ac7518",
+            "source": {
+              "cell": "81da00bb-39fb-45bd-ba51-2d86e1126ef8"
+            },
+            "target": {
+              "cell": "dd6ff4e2-1bdc-47be-bf46-565d39560bb4"
+            },
+            "vertices": [
+              {
+                "x": 220,
+                "y": 240
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Object Upload Notification",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "5392be18-6d5b-4836-97dd-4e6fde5a0430",
+            "source": {
+              "x": 700,
+              "y": 380
+            },
+            "target": {
+              "cell": "0262d95d-9513-4c22-a531-d260cb784f29"
+            },
+            "vertices": [
+              {
+                "x": 770,
+                "y": 350
+              },
+              {
+                "x": 790,
+                "y": 283
+              }
+            ],
+            "labels": [
+              "Object Upload Notification"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "035ed578-84d5-4b68-8e1f-1a4fbc812fdb",
+            "source": {
+              "cell": "0262d95d-9513-4c22-a531-d260cb784f29"
+            },
+            "target": {
+              "cell": "fdce29d6-0e92-4335-87ea-e28f0664e0b8"
+            },
+            "vertices": [
+              {
+                "x": 940,
+                "y": 320
+              },
+              {
+                "x": 1000,
+                "y": 320
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Send File to Scanner",
+              "description": "File not saved on disk sent in chunks ",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "b09073c4-ab36-4430-b1cc-2c6f85e8a2f4",
+            "source": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            },
+            "target": {
+              "cell": "e6d99e1f-49fe-49ec-9455-8fda23128dfd"
+            },
+            "vertices": [],
+            "labels": [
+              "Send File to Scanner"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Quarantine File",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "b04fc84c-e59d-49fc-9aaa-04e117fe81f0",
+            "source": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            },
+            "target": {
+              "cell": "d8a31ff1-1240-4ffa-ad3f-1224c5a71882"
+            },
+            "labels": [
+              "Quarantine File"
+            ],
+            "vertices": [
+              {
+                "x": 1540,
+                "y": 380
+              },
+              {
+                "x": 1585,
+                "y": 360
+              }
+            ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "f3fa93c4-7df7-4ccf-aa6c-ab444805d236",
+            "source": {
+              "x": 1760,
+              "y": 380
+            },
+            "target": {
+              "x": 1760,
+              "y": 570
+            },
+            "vertices": [
+              {
+                "x": 1810,
+                "y": 470
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Get File\nMove File(Quarantine)",
+              "description": "Get file - not saved on disk in interface container streamed to Scanner Container",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "159c14d9-3b5f-49ff-9675-329ebc080e2c",
+            "source": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            },
+            "target": {
+              "cell": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277"
+            },
+            "vertices": [
+              {
+                "x": 1020,
+                "y": 420
+              },
+              {
+                "x": 820,
+                "y": 420
+              }
+            ],
+            "labels": [
+              "Get File\nMove File(Quarantine)"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Poll Messages",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "725d1e04-5d62-4fda-870e-8b1078d7cd3d",
+            "source": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            },
+            "target": {
+              "cell": "fdce29d6-0e92-4335-87ea-e28f0664e0b8"
+            },
+            "labels": [
+              "Poll Messages"
+            ],
+            "vertices": [
+              {
+                "x": 1090,
+                "y": 290
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Download(Get Call)\n Daily Virus Signature",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "3924b8ca-5bbd-4893-9459-7b470bac93f1",
+            "labels": [
+              "Download(Get Call)\n Daily Virus Signature"
+            ],
+            "source": {
+              "x": 1383,
+              "y": 480
+            },
+            "target": {
+              "cell": "0db6873d-dbe8-4206-9cc2-cf923cc17c0b"
+            },
+            "vertices": [
+              {
+                "x": 1460,
+                "y": 480
+              },
+              {
+                "x": 1610,
+                "y": 490
+              },
+              {
+                "x": 1550,
+                "y": 490
+              },
+              {
+                "x": 1760,
+                "y": 480
+              },
+              {
+                "x": 1780,
+                "y": 500
+              },
+              {
+                "x": 1850,
+                "y": 500
+              }
+            ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "52b4cf28-4ef6-49a2-aa06-f8208d8496e1",
+            "source": {
+              "x": 363,
+              "y": 660
+            },
+            "target": {
+              "x": 590,
+              "y": 650
+            },
+            "vertices": [
+              {
+                "x": 530,
+                "y": 680
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "483d17ce-88f0-4a9f-8cb6-931bab50d336",
+            "source": {
+              "x": 1296,
+              "y": 66
+            },
+            "target": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            }
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "POST File for Scanning",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "69ce5ab9-c4f1-42c9-8d45-ba2c75e93c12",
+            "source": {
+              "cell": "d7105871-a704-4bfc-8489-f5ce6f92ff07"
+            },
+            "target": {
+              "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
+            },
+            "vertices": [
+              {
+                "x": 520,
+                "y": 470
+              },
+              {
+                "x": 660,
+                "y": 500
+              },
+              {
+                "x": 1040,
+                "y": 500
+              }
+            ],
+            "labels": [
+              "POST File for Scanning"
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "63f63266-1b14-4ae8-b3c1-09805a9db525",
+            "source": {
+              "cell": "d7105871-a704-4bfc-8489-f5ce6f92ff07"
+            },
+            "target": {
+              "cell": "08833773-f134-4816-affb-c20712e20f03"
+            },
+            "vertices": [
+              {
+                "x": 460,
+                "y": 630
+              },
+              {
+                "x": 520,
+                "y": 670
+              },
+              {
+                "x": 520,
+                "y": 690
+              },
+              {
+                "x": 550,
+                "y": 715
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "bb8b7bba-2341-4f11-b6c0-fec4bf359a0b",
+            "source": {
+              "cell": "dd6ff4e2-1bdc-47be-bf46-565d39560bb4"
+            },
+            "target": {
+              "cell": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277"
+            },
+            "vertices": []
+          },
+          {
+            "position": {
+              "x": 609.9999999999982,
+              "y": 355.0000000000018
+            },
+            "size": {
+              "width": 70,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "S3 Bucket"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277",
+            "zIndex": 11,
+            "data": {
+              "type": "tm.Store",
+              "name": "S3 Bucket",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 819.9999999999975,
+              "y": 250
+            },
+            "size": {
+              "width": 60,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Event \nRouter"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "0262d95d-9513-4c22-a531-d260cb784f29",
+            "zIndex": 12,
+            "data": {
+              "type": "tm.Process",
+              "name": "Event \nRouter",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1545,
+              "y": 250
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Quarantine Bucket"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "d8a31ff1-1240-4ffa-ad3f-1224c5a71882",
+            "zIndex": 13,
+            "data": {
+              "type": "tm.Store",
+              "name": "Quarantine Bucket",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 320,
+              "y": 350.00000000000205
+            },
+            "size": {
+              "width": 60,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Infinity"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "dd6ff4e2-1bdc-47be-bf46-565d39560bb4",
+            "zIndex": 14,
+            "data": {
+              "type": "tm.Process",
+              "name": "Infinity",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 320,
+              "y": 430
+            },
+            "size": {
+              "width": 60,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Service A"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "process",
+            "id": "d7105871-a704-4bfc-8489-f5ce6f92ff07",
+            "zIndex": 15,
+            "data": {
+              "type": "tm.Process",
+              "name": "Service A",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "handlesCardPayment": false,
+              "handlesGoodsOrServices": false,
+              "isWebApplication": false,
+              "privilegeLevel": "",
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1031,
+              "y": 195
+            },
+            "size": {
+              "width": 70,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "Queue"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "fdce29d6-0e92-4335-87ea-e28f0664e0b8",
+            "zIndex": 16,
+            "data": {
+              "type": "tm.Store",
+              "name": "Queue",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1908,
+              "y": 440.00000000000273
+            },
+            "size": {
+              "width": 120,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Clam AV \nDownload Virus Signatures"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "0db6873d-dbe8-4206-9cc2-cf923cc17c0b",
+            "zIndex": 17,
+            "data": {
+              "type": "tm.Store",
+              "name": "Clam AV \nDownload Virus Signatures",
+              "description": "Daily Download Virus Signatures",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 470.4999999999993,
+              "y": 605.000000000002
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Get SAX Token"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "44c4eba3-1500-4b21-8185-b8af131723af",
+            "zIndex": 18,
+            "data": {
+              "type": "tm.Text",
+              "name": "Get SAX Token",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 899.9999999999975,
+              "y": 260.0000000000009
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Send Message"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "8282acd8-f8aa-4be1-abc3-a365a4103b2f",
+            "zIndex": 19,
+            "data": {
+              "type": "tm.Text",
+              "name": "Send Message",
+              "hasOpenThreats": false
+            }
+          }
+        ]
       }
     ],
     "diagramTop": 1,
