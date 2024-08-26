@@ -19,8 +19,8 @@
         "cells": [
           {
             "position": {
-              "x": 229.9999999999975,
-              "y": 155.00000000000182
+              "x": 620,
+              "y": 489.9999999999998
             },
             "size": {
               "width": 670,
@@ -44,12 +44,12 @@
           },
           {
             "position": {
-              "x": 1010.9999999999982,
-              "y": 155.00000000000057
+              "x": 1401.0000000000002,
+              "y": 489.99999999999955
             },
             "size": {
               "width": 690,
-              "height": 450
+              "height": 550
             },
             "shape": "trust-boundary-box",
             "attrs": {
@@ -69,8 +69,8 @@
           },
           {
             "position": {
-              "x": 282.9999999999999,
-              "y": 250.0000000000001
+              "x": 673.0000000000024,
+              "y": 584.9999999999981
             },
             "size": {
               "width": 280,
@@ -94,8 +94,8 @@
           },
           {
             "position": {
-              "x": 252.99999999999926,
-              "y": 220.00000000000216
+              "x": 643.0000000000018,
+              "y": 555.0000000000001
             },
             "size": {
               "width": 330,
@@ -119,12 +119,12 @@
           },
           {
             "position": {
-              "x": 1123,
-              "y": 190.00000000000114
+              "x": 1513.0000000000025,
+              "y": 524.9999999999993
             },
             "size": {
               "width": 380,
-              "height": 380
+              "height": 470
             },
             "shape": "trust-boundary-box",
             "attrs": {
@@ -144,12 +144,12 @@
           },
           {
             "position": {
-              "x": 1150,
-              "y": 220.00000000000296
+              "x": 1540.0000000000025,
+              "y": 555.0000000000011
             },
             "size": {
               "width": 330,
-              "height": 330
+              "height": 420
             },
             "shape": "trust-boundary-box",
             "attrs": {
@@ -169,12 +169,12 @@
           },
           {
             "position": {
-              "x": 1197,
-              "y": 270.0000000000009
+              "x": 1587.0000000000025,
+              "y": 604.9999999999992
             },
             "size": {
               "width": 250,
-              "height": 260
+              "height": 350
             },
             "shape": "trust-boundary-box",
             "attrs": {
@@ -194,8 +194,8 @@
           },
           {
             "position": {
-              "x": 1220,
-              "y": 355.0000000000018
+              "x": 1610.0000000000025,
+              "y": 689.9999999999998
             },
             "size": {
               "width": 160,
@@ -219,8 +219,8 @@
           },
           {
             "position": {
-              "x": 1220,
-              "y": 460.00000000000006
+              "x": 1610.0000000000025,
+              "y": 794.999999999998
             },
             "size": {
               "width": 160,
@@ -244,8 +244,8 @@
           },
           {
             "position": {
-              "x": 1236,
-              "y": 6
+              "x": 1626.0000000000025,
+              "y": 340.99999999999795
             },
             "size": {
               "width": 128,
@@ -269,8 +269,8 @@
           },
           {
             "position": {
-              "x": 629.9999999999982,
-              "y": 690
+              "x": 1020.0000000000007,
+              "y": 1024.999999999998
             },
             "size": {
               "width": 160,
@@ -294,8 +294,33 @@
           },
           {
             "position": {
-              "x": 20,
-              "y": 190
+              "x": 1626.0000000000025,
+              "y": 874.9999999999981
+            },
+            "size": {
+              "width": 80,
+              "height": 50
+            },
+            "shape": "trust-boundary-box",
+            "attrs": {
+              "headerText": {
+                "text": "Cron Job"
+              }
+            },
+            "id": "0da1a5ef-f89c-4035-ad47-c9a1ef0ab6cc",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Cron Job",
+              "description": "K8s Job running Malware Scan Service to process DLQ Messages",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 410.0000000000025,
+              "y": 524.999999999998
             },
             "size": {
               "width": 112.5,
@@ -328,8 +353,8 @@
           },
           {
             "position": {
-              "x": 20,
-              "y": 290
+              "x": 410.0000000000025,
+              "y": 624.999999999998
             },
             "size": {
               "width": 112.5,
@@ -362,8 +387,8 @@
           },
           {
             "position": {
-              "x": 20,
-              "y": 380.00000000000273
+              "x": 410.0000000000025,
+              "y": 715.0000000000007
             },
             "size": {
               "width": 112.5,
@@ -409,25 +434,25 @@
             },
             "id": "bd4d3b92-3785-4d16-ba5d-feae51a24329",
             "source": {
-              "x": 170,
-              "y": 170
+              "x": 560.0000000000025,
+              "y": 504.99999999999795
             },
             "target": {
-              "x": 140,
-              "y": 270
+              "x": 530.0000000000025,
+              "y": 604.999999999998
             },
             "vertices": [
               {
-                "x": 180,
-                "y": 190
+                "x": 570.0000000000025,
+                "y": 524.999999999998
               },
               {
-                "x": 200,
-                "y": 220
+                "x": 590.0000000000025,
+                "y": 554.999999999998
               },
               {
-                "x": 180,
-                "y": 250
+                "x": 570.0000000000025,
+                "y": 584.999999999998
               }
             ]
           },
@@ -471,8 +496,8 @@
             },
             "vertices": [
               {
-                "x": 220,
-                "y": 240
+                "x": 610.0000000000025,
+                "y": 574.999999999998
               }
             ]
           },
@@ -509,20 +534,20 @@
             },
             "id": "5392be18-6d5b-4836-97dd-4e6fde5a0430",
             "source": {
-              "x": 700,
-              "y": 380
+              "x": 1090.0000000000025,
+              "y": 714.999999999998
             },
             "target": {
               "cell": "0262d95d-9513-4c22-a531-d260cb784f29"
             },
             "vertices": [
               {
-                "x": 770,
-                "y": 350
+                "x": 1160.0000000000025,
+                "y": 684.999999999998
               },
               {
-                "x": 790,
-                "y": 283
+                "x": 1180.0000000000025,
+                "y": 617.999999999998
               }
             ],
             "labels": [
@@ -569,12 +594,12 @@
             },
             "vertices": [
               {
-                "x": 940,
-                "y": 320
+                "x": 1330.0000000000025,
+                "y": 654.999999999998
               },
               {
-                "x": 1000,
-                "y": 320
+                "x": 1390.0000000000025,
+                "y": 654.999999999998
               }
             ]
           },
@@ -664,12 +689,12 @@
             ],
             "vertices": [
               {
-                "x": 1540,
-                "y": 380
+                "x": 1930.0000000000025,
+                "y": 714.999999999998
               },
               {
-                "x": 1585,
-                "y": 360
+                "x": 1975.0000000000025,
+                "y": 694.999999999998
               }
             ]
           },
@@ -688,17 +713,17 @@
             },
             "id": "f3fa93c4-7df7-4ccf-aa6c-ab444805d236",
             "source": {
-              "x": 1760,
-              "y": 380
+              "x": 2150.0000000000027,
+              "y": 714.999999999998
             },
             "target": {
-              "x": 1760,
-              "y": 570
+              "x": 2150.0000000000027,
+              "y": 904.999999999998
             },
             "vertices": [
               {
-                "x": 1810,
-                "y": 470
+                "x": 2200.0000000000027,
+                "y": 804.999999999998
               }
             ]
           },
@@ -742,12 +767,20 @@
             },
             "vertices": [
               {
-                "x": 1020,
-                "y": 420
+                "x": 1410.0000000000025,
+                "y": 754.999999999998
               },
               {
-                "x": 820,
-                "y": 420
+                "x": 1500.0000000000025,
+                "y": 704.999999999998
+              },
+              {
+                "x": 1330.0000000000025,
+                "y": 724.999999999998
+              },
+              {
+                "x": 1250.0000000000025,
+                "y": 714.999999999998
               }
             ],
             "labels": [
@@ -797,8 +830,8 @@
             ],
             "vertices": [
               {
-                "x": 1090,
-                "y": 290
+                "x": 1480.0000000000025,
+                "y": 624.999999999998
               }
             ]
           },
@@ -838,36 +871,36 @@
               "Download(Get Call)\n Daily Virus Signature"
             ],
             "source": {
-              "x": 1383,
-              "y": 480
+              "x": 1773.0000000000025,
+              "y": 814.999999999998
             },
             "target": {
               "cell": "0db6873d-dbe8-4206-9cc2-cf923cc17c0b"
             },
             "vertices": [
               {
-                "x": 1460,
-                "y": 480
+                "x": 1850.0000000000025,
+                "y": 814.999999999998
               },
               {
-                "x": 1610,
-                "y": 490
+                "x": 2000.0000000000025,
+                "y": 824.999999999998
               },
               {
-                "x": 1550,
-                "y": 490
+                "x": 1940.0000000000025,
+                "y": 824.999999999998
               },
               {
-                "x": 1760,
-                "y": 480
+                "x": 2150.0000000000027,
+                "y": 814.999999999998
               },
               {
-                "x": 1780,
-                "y": 500
+                "x": 2170.0000000000027,
+                "y": 834.999999999998
               },
               {
-                "x": 1850,
-                "y": 500
+                "x": 2240.0000000000027,
+                "y": 834.999999999998
               }
             ]
           },
@@ -886,17 +919,17 @@
             },
             "id": "52b4cf28-4ef6-49a2-aa06-f8208d8496e1",
             "source": {
-              "x": 363,
-              "y": 660
+              "x": 753.0000000000025,
+              "y": 994.999999999998
             },
             "target": {
-              "x": 590,
-              "y": 650
+              "x": 980.0000000000025,
+              "y": 984.999999999998
             },
             "vertices": [
               {
-                "x": 530,
-                "y": 680
+                "x": 920.0000000000025,
+                "y": 1014.999999999998
               }
             ]
           },
@@ -933,8 +966,8 @@
             },
             "id": "483d17ce-88f0-4a9f-8cb6-931bab50d336",
             "source": {
-              "x": 1296,
-              "y": 66
+              "x": 1686.0000000000025,
+              "y": 400.99999999999795
             },
             "target": {
               "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
@@ -980,16 +1013,20 @@
             },
             "vertices": [
               {
-                "x": 520,
-                "y": 470
+                "x": 910.0000000000025,
+                "y": 804.999999999998
               },
               {
-                "x": 660,
-                "y": 500
+                "x": 1050.0000000000025,
+                "y": 834.999999999998
               },
               {
-                "x": 1040,
-                "y": 500
+                "x": 1240.0000000000025,
+                "y": 894.999999999998
+              },
+              {
+                "x": 1420.0000000000025,
+                "y": 864.999999999998
               }
             ],
             "labels": [
@@ -1036,20 +1073,20 @@
             },
             "vertices": [
               {
-                "x": 460,
-                "y": 630
+                "x": 850.0000000000025,
+                "y": 964.999999999998
               },
               {
-                "x": 520,
-                "y": 670
+                "x": 910.0000000000025,
+                "y": 1004.999999999998
               },
               {
-                "x": 520,
-                "y": 690
+                "x": 910.0000000000025,
+                "y": 1024.999999999998
               },
               {
-                "x": 550,
-                "y": 715
+                "x": 940.0000000000025,
+                "y": 1049.999999999998
               }
             ]
           },
@@ -1094,9 +1131,191 @@
             "vertices": []
           },
           {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "6b597e54-69ea-4e6b-b868-0b723ec7d45c",
+            "source": {
+              "cell": "eadf3e35-6381-40b1-9b4a-531acd56fb67"
+            },
+            "target": {
+              "cell": "0da1a5ef-f89c-4035-ad47-c9a1ef0ab6cc"
+            },
+            "vertices": [
+              {
+                "x": 1910.0000000000025,
+                "y": 924.999999999998
+              },
+              {
+                "x": 1830.0000000000025,
+                "y": 924.999999999998
+              },
+              {
+                "x": 1800.0000000000025,
+                "y": 899.999999999998
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "775001db-dba5-4dd5-bbc7-01c5332ad545",
+            "source": {
+              "cell": "0da1a5ef-f89c-4035-ad47-c9a1ef0ab6cc"
+            },
+            "target": {
+              "cell": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277"
+            },
+            "vertices": [
+              {
+                "x": 1400.0000000000025,
+                "y": 854.999999999998
+              },
+              {
+                "x": 1180.0000000000025,
+                "y": 824.999999999998
+              },
+              {
+                "x": 1100.0000000000025,
+                "y": 804.999999999998
+              },
+              {
+                "x": 1060.0000000000025,
+                "y": 774.999999999998
+              }
+            ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Cross Account / Project",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "c084c0d6-16ec-45ff-8c2d-b5ecefd51d4f",
+            "source": {
+              "x": 1340.0000000000025,
+              "y": 514.999999999998
+            },
+            "target": {
+              "x": 1340.0000000000025,
+              "y": 1044.999999999998
+            },
+            "labels": [
+              "Cross Account / Project"
+            ],
+            "vertices": [
+              {
+                "x": 1370.0000000000025,
+                "y": 764.999999999998
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "69da93f6-bb44-4ccb-b461-d61a0eff4fbf",
+            "source": {
+              "x": 1540.0000000000025,
+              "y": 369.99999999999795
+            },
+            "target": {
+              "cell": "b2172cf7-2f6b-41c9-9455-20d9b95e8dfe"
+            }
+          },
+          {
             "position": {
-              "x": 609.9999999999982,
-              "y": 355.0000000000018
+              "x": 1000.0000000000007,
+              "y": 689.9999999999998
             },
             "size": {
               "width": 70,
@@ -1136,8 +1355,8 @@
           },
           {
             "position": {
-              "x": 819.9999999999975,
-              "y": 250
+              "x": 1210,
+              "y": 584.999999999998
             },
             "size": {
               "width": 60,
@@ -1173,8 +1392,8 @@
           },
           {
             "position": {
-              "x": 1545,
-              "y": 250
+              "x": 1935.0000000000025,
+              "y": 584.999999999998
             },
             "size": {
               "width": 120,
@@ -1214,8 +1433,8 @@
           },
           {
             "position": {
-              "x": 320,
-              "y": 350.00000000000205
+              "x": 710.0000000000025,
+              "y": 685
             },
             "size": {
               "width": 60,
@@ -1251,8 +1470,8 @@
           },
           {
             "position": {
-              "x": 320,
-              "y": 430
+              "x": 710.0000000000025,
+              "y": 764.999999999998
             },
             "size": {
               "width": 60,
@@ -1288,8 +1507,8 @@
           },
           {
             "position": {
-              "x": 1031,
-              "y": 195
+              "x": 1421.0000000000025,
+              "y": 529.999999999998
             },
             "size": {
               "width": 70,
@@ -1329,8 +1548,8 @@
           },
           {
             "position": {
-              "x": 1908,
-              "y": 440.00000000000273
+              "x": 2298.0000000000027,
+              "y": 775.0000000000007
             },
             "size": {
               "width": 120,
@@ -1370,8 +1589,8 @@
           },
           {
             "position": {
-              "x": 470.4999999999993,
-              "y": 605.000000000002
+              "x": 860.5000000000018,
+              "y": 940
             },
             "size": {
               "width": 112.5,
@@ -1394,8 +1613,8 @@
           },
           {
             "position": {
-              "x": 899.9999999999975,
-              "y": 260.0000000000009
+              "x": 1290,
+              "y": 594.9999999999989
             },
             "size": {
               "width": 112.5,
@@ -1414,6 +1633,129 @@
               "type": "tm.Text",
               "name": "Send Message",
               "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1965.0000000000025,
+              "y": 855.0000000000001
+            },
+            "size": {
+              "width": 80,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "Dead Letter Queue"
+              },
+              "topLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              },
+              "bottomLine": {
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "store",
+            "id": "eadf3e35-6381-40b1-9b4a-531acd56fb67",
+            "zIndex": 20,
+            "data": {
+              "type": "tm.Store",
+              "name": "Dead Letter Queue",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isALog": false,
+              "isEncrypted": false,
+              "isSigned": false,
+              "storesCredentials": false,
+              "storesInventory": false,
+              "threats": []
+            }
+          },
+          {
+            "position": {
+              "x": 1724.0000000000025,
+              "y": 889.9999999999998
+            },
+            "size": {
+              "width": 70,
+              "height": 50
+            },
+            "attrs": {
+              "text": {
+                "text": "Process DLQ"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "32565dc4-2399-4f6e-a9d6-6d1b8d3b4a92",
+            "zIndex": 21,
+            "data": {
+              "type": "tm.Text",
+              "name": "Process DLQ",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1177.5,
+              "y": 794.999999999998
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Reprocess Failed Messages\nGet File \nMoveFile"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "ad037dff-a1b4-41b5-8dd2-d98a23d3794e",
+            "zIndex": 22,
+            "data": {
+              "type": "tm.Text",
+              "name": "Reprocess Failed Messages\nGet File \nMoveFile",
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
+              "x": 1370.5000000000025,
+              "y": 340.9999999999978
+            },
+            "size": {
+              "width": 170,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Cloud Ops Engineer"
+              },
+              "body": {
+                "stroke": "#333333",
+                "strokeWidth": 1.5,
+                "strokeDasharray": null
+              }
+            },
+            "visible": true,
+            "shape": "actor",
+            "id": "618feefe-8ba3-4bd4-8857-625db8ed26b5",
+            "zIndex": 23,
+            "data": {
+              "type": "tm.Actor",
+              "name": "Cloud Ops Engineer",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "providesAuthentication": false,
+              "threats": []
             }
           }
         ]
