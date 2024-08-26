@@ -32,8 +32,8 @@
                 "text": "Runtime Account/Project"
               }
             },
-            "id": "3d2ba92b-958b-4127-bac4-f64e0127566c",
             "zIndex": -1,
+            "id": "3d2ba92b-958b-4127-bac4-f64e0127566c",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Runtime Account/Project",
@@ -57,8 +57,8 @@
                 "text": "Regional Account/ Project"
               }
             },
-            "id": "40584dde-a2c3-4c72-8969-fdcb60e90a12",
             "zIndex": -1,
+            "id": "40584dde-a2c3-4c72-8969-fdcb60e90a12",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Regional Account/ Project",
@@ -82,8 +82,8 @@
                 "text": "Client A Cluster"
               }
             },
-            "id": "be85f3bd-834b-4ad8-9f1d-bfcc7e6fb77e",
             "zIndex": -1,
+            "id": "be85f3bd-834b-4ad8-9f1d-bfcc7e6fb77e",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Client A Cluster",
@@ -107,8 +107,8 @@
                 "text": "Client A VPC"
               }
             },
-            "id": "5b036c68-c883-43f7-b690-06c9e3b09976",
             "zIndex": -1,
+            "id": "5b036c68-c883-43f7-b690-06c9e3b09976",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Client A VPC",
@@ -132,8 +132,8 @@
                 "text": "Regional VPC "
               }
             },
-            "id": "f257c97c-204b-45c6-8855-b6fd67b232a0",
             "zIndex": -1,
+            "id": "f257c97c-204b-45c6-8855-b6fd67b232a0",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Regional VPC ",
@@ -157,8 +157,8 @@
                 "text": "Regional Cluster"
               }
             },
-            "id": "18350129-48d8-40b2-a753-174cc4f5140c",
             "zIndex": -1,
+            "id": "18350129-48d8-40b2-a753-174cc4f5140c",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Regional Cluster",
@@ -182,8 +182,8 @@
                 "text": "Malware Scanner Service"
               }
             },
-            "id": "f2685ec8-30a2-4575-9526-480d074c68f7",
             "zIndex": -1,
+            "id": "f2685ec8-30a2-4575-9526-480d074c68f7",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Malware Scanner Service",
@@ -207,8 +207,8 @@
                 "text": "Interface Container"
               }
             },
-            "id": "e0051a94-6c9e-40b3-9b1e-d803f96eb501",
             "zIndex": -1,
+            "id": "e0051a94-6c9e-40b3-9b1e-d803f96eb501",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Interface Container",
@@ -232,8 +232,8 @@
                 "text": "Scanner Container"
               }
             },
-            "id": "e6d99e1f-49fe-49ec-9455-8fda23128dfd",
             "zIndex": -1,
+            "id": "e6d99e1f-49fe-49ec-9455-8fda23128dfd",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Scanner Container",
@@ -257,8 +257,8 @@
                 "text": "\nGOC\nOperations"
               }
             },
-            "id": "b2172cf7-2f6b-41c9-9455-20d9b95e8dfe",
             "zIndex": -1,
+            "id": "b2172cf7-2f6b-41c9-9455-20d9b95e8dfe",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "\nGOC\nOperations",
@@ -282,8 +282,8 @@
                 "text": "SAX"
               }
             },
-            "id": "08833773-f134-4816-affb-c20712e20f03",
             "zIndex": -1,
+            "id": "08833773-f134-4816-affb-c20712e20f03",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "SAX",
@@ -307,8 +307,8 @@
                 "text": "Cron Job"
               }
             },
-            "id": "0da1a5ef-f89c-4035-ad47-c9a1ef0ab6cc",
             "zIndex": -1,
+            "id": "0da1a5ef-f89c-4035-ad47-c9a1ef0ab6cc",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Cron Job",
@@ -338,8 +338,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "81da00bb-39fb-45bd-ba51-2d86e1126ef8",
             "zIndex": 0,
+            "id": "81da00bb-39fb-45bd-ba51-2d86e1126ef8",
             "data": {
               "type": "tm.Actor",
               "name": "Client A",
@@ -372,8 +372,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "97befa60-8317-4c0b-bdae-dd6489e33bd2",
             "zIndex": 1,
+            "id": "97befa60-8317-4c0b-bdae-dd6489e33bd2",
             "data": {
               "type": "tm.Actor",
               "name": "Client B",
@@ -406,8 +406,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "7f37ed0c-d2f0-4751-b1e0-ebf669970785",
             "zIndex": 2,
+            "id": "7f37ed0c-d2f0-4751-b1e0-ebf669970785",
             "data": {
               "type": "tm.Actor",
               "name": "Client C",
@@ -533,6 +533,9 @@
               "threats": []
             },
             "id": "5392be18-6d5b-4836-97dd-4e6fde5a0430",
+            "labels": [
+              "Object Upload Notification"
+            ],
             "source": {
               "x": 1090.0000000000025,
               "y": 714.999999999998
@@ -549,9 +552,6 @@
                 "x": 1180.0000000000025,
                 "y": 617.999999999998
               }
-            ],
-            "labels": [
-              "Object Upload Notification"
             ]
           },
           {
@@ -635,16 +635,16 @@
               "threats": []
             },
             "id": "b09073c4-ab36-4430-b1cc-2c6f85e8a2f4",
+            "labels": [
+              "Send File to Scanner"
+            ],
             "source": {
               "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
             },
             "target": {
               "cell": "e6d99e1f-49fe-49ec-9455-8fda23128dfd"
             },
-            "vertices": [],
-            "labels": [
-              "Send File to Scanner"
-            ]
+            "vertices": []
           },
           {
             "shape": "flow",
@@ -678,15 +678,15 @@
               "threats": []
             },
             "id": "b04fc84c-e59d-49fc-9aaa-04e117fe81f0",
+            "labels": [
+              "Quarantine File"
+            ],
             "source": {
               "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
             },
             "target": {
               "cell": "d8a31ff1-1240-4ffa-ad3f-1224c5a71882"
             },
-            "labels": [
-              "Quarantine File"
-            ],
             "vertices": [
               {
                 "x": 1930.0000000000025,
@@ -759,6 +759,9 @@
               "threats": []
             },
             "id": "159c14d9-3b5f-49ff-9675-329ebc080e2c",
+            "labels": [
+              "Get File\nMove File(Quarantine)"
+            ],
             "source": {
               "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
             },
@@ -767,24 +770,17 @@
             },
             "vertices": [
               {
-                "x": 1410.0000000000025,
+                "x": 1410,
+                "y": 715
+              },
+              {
+                "x": 1250,
                 "y": 754.999999999998
               },
               {
-                "x": 1500.0000000000025,
-                "y": 704.999999999998
-              },
-              {
-                "x": 1330.0000000000025,
-                "y": 724.999999999998
-              },
-              {
-                "x": 1250.0000000000025,
-                "y": 714.999999999998
+                "x": 1170,
+                "y": 754.999999999998
               }
-            ],
-            "labels": [
-              "Get File\nMove File(Quarantine)"
             ]
           },
           {
@@ -819,15 +815,15 @@
               "threats": []
             },
             "id": "725d1e04-5d62-4fda-870e-8b1078d7cd3d",
+            "labels": [
+              "Poll Messages"
+            ],
             "source": {
               "cell": "e0051a94-6c9e-40b3-9b1e-d803f96eb501"
             },
             "target": {
               "cell": "fdce29d6-0e92-4335-87ea-e28f0664e0b8"
             },
-            "labels": [
-              "Poll Messages"
-            ],
             "vertices": [
               {
                 "x": 1480.0000000000025,
@@ -1005,6 +1001,9 @@
               "threats": []
             },
             "id": "69ce5ab9-c4f1-42c9-8d45-ba2c75e93c12",
+            "labels": [
+              "POST File for Scanning"
+            ],
             "source": {
               "cell": "d7105871-a704-4bfc-8489-f5ce6f92ff07"
             },
@@ -1028,9 +1027,6 @@
                 "x": 1420.0000000000025,
                 "y": 864.999999999998
               }
-            ],
-            "labels": [
-              "POST File for Scanning"
             ]
           },
           {
@@ -1254,6 +1250,9 @@
               "hasOpenThreats": false
             },
             "id": "c084c0d6-16ec-45ff-8c2d-b5ecefd51d4f",
+            "labels": [
+              "Cross Account / Project"
+            ],
             "source": {
               "x": 1340.0000000000025,
               "y": 514.999999999998
@@ -1262,9 +1261,6 @@
               "x": 1340.0000000000025,
               "y": 1044.999999999998
             },
-            "labels": [
-              "Cross Account / Project"
-            ],
             "vertices": [
               {
                 "x": 1370.0000000000025,
@@ -1336,8 +1332,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277",
             "zIndex": 11,
+            "id": "7e4a1d6f-4e66-41e6-ae3d-3c61f22ef277",
             "data": {
               "type": "tm.Store",
               "name": "S3 Bucket",
@@ -1374,8 +1370,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "0262d95d-9513-4c22-a531-d260cb784f29",
             "zIndex": 12,
+            "id": "0262d95d-9513-4c22-a531-d260cb784f29",
             "data": {
               "type": "tm.Process",
               "name": "Event \nRouter",
@@ -1414,8 +1410,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "d8a31ff1-1240-4ffa-ad3f-1224c5a71882",
             "zIndex": 13,
+            "id": "d8a31ff1-1240-4ffa-ad3f-1224c5a71882",
             "data": {
               "type": "tm.Store",
               "name": "Quarantine Bucket",
@@ -1452,8 +1448,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "dd6ff4e2-1bdc-47be-bf46-565d39560bb4",
             "zIndex": 14,
+            "id": "dd6ff4e2-1bdc-47be-bf46-565d39560bb4",
             "data": {
               "type": "tm.Process",
               "name": "Infinity",
@@ -1489,8 +1485,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "d7105871-a704-4bfc-8489-f5ce6f92ff07",
             "zIndex": 15,
+            "id": "d7105871-a704-4bfc-8489-f5ce6f92ff07",
             "data": {
               "type": "tm.Process",
               "name": "Service A",
@@ -1529,8 +1525,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "fdce29d6-0e92-4335-87ea-e28f0664e0b8",
             "zIndex": 16,
+            "id": "fdce29d6-0e92-4335-87ea-e28f0664e0b8",
             "data": {
               "type": "tm.Store",
               "name": "Queue",
@@ -1570,8 +1566,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "0db6873d-dbe8-4206-9cc2-cf923cc17c0b",
             "zIndex": 17,
+            "id": "0db6873d-dbe8-4206-9cc2-cf923cc17c0b",
             "data": {
               "type": "tm.Store",
               "name": "Clam AV \nDownload Virus Signatures",
@@ -1603,8 +1599,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "44c4eba3-1500-4b21-8185-b8af131723af",
             "zIndex": 18,
+            "id": "44c4eba3-1500-4b21-8185-b8af131723af",
             "data": {
               "type": "tm.Text",
               "name": "Get SAX Token",
@@ -1627,8 +1623,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "8282acd8-f8aa-4be1-abc3-a365a4103b2f",
             "zIndex": 19,
+            "id": "8282acd8-f8aa-4be1-abc3-a365a4103b2f",
             "data": {
               "type": "tm.Text",
               "name": "Send Message",
@@ -1659,8 +1655,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "eadf3e35-6381-40b1-9b4a-531acd56fb67",
             "zIndex": 20,
+            "id": "eadf3e35-6381-40b1-9b4a-531acd56fb67",
             "data": {
               "type": "tm.Store",
               "name": "Dead Letter Queue",
@@ -1692,8 +1688,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "32565dc4-2399-4f6e-a9d6-6d1b8d3b4a92",
             "zIndex": 21,
+            "id": "32565dc4-2399-4f6e-a9d6-6d1b8d3b4a92",
             "data": {
               "type": "tm.Text",
               "name": "Process DLQ",
@@ -1716,8 +1712,8 @@
             },
             "visible": true,
             "shape": "td-text-block",
-            "id": "ad037dff-a1b4-41b5-8dd2-d98a23d3794e",
             "zIndex": 22,
+            "id": "ad037dff-a1b4-41b5-8dd2-d98a23d3794e",
             "data": {
               "type": "tm.Text",
               "name": "Reprocess Failed Messages\nGet File \nMoveFile",
@@ -1745,8 +1741,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "618feefe-8ba3-4bd4-8857-625db8ed26b5",
             "zIndex": 23,
+            "id": "618feefe-8ba3-4bd4-8857-625db8ed26b5",
             "data": {
               "type": "tm.Actor",
               "name": "Cloud Ops Engineer",
